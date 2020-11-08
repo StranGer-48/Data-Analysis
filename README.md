@@ -49,3 +49,9 @@ In this course I am gonna discuss about how these steps are implemented using Py
    
  > **Seaborn - For Statistical Data Visualization**
    Seaborn for statistical data visualization. It is a library for making attractive and informative statistical graphics in Python. It is based on matplotlib. Seaborn aims to male visualization a central part of exploring and understanding data.
+
+
+Source: 
+ * [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis#Data_processinghttps://en.wikipedia.org/wiki/Data_analysis#Data_processing)
+ * [Python Libraries For Data Analysis](http://makemeanalyst.com/data-science-with-python/python-libraries-for-data-analysis/)
+ 
