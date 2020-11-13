@@ -32,10 +32,12 @@ There are different steps in data analysis:
 
 In this course I am gonna discuss about how these steps are implemented using Python Programming language. There are different Python libraries for data analysis:
 
- > **Numpy and Scipy - Fumdamental Scientific Computing**
-   NumPys stands for Numerical Python. The most powerful feature of NumPy is n-dimentional array. This library also contains basic linear algebra functions, Fourier transforms, advanced random number capabililties and tools for integration with other low level languagues like C and C++.
-   SciPy stands for Scientific Python. It is built on NumPy. Scipy is one of the most useful library for variety of high level science and engineering modules like discrete Fourier transform, Linear Algebra, Optimization and Sparse martices.
-   Numpy colab tutorial is [here](https://github.com/StranGer-48/Data-Analysis/blob/main/NumPyTutorial_1.ipynb)
+ > **Numpy**
+   NumPys stands for Numerical Python. The most powerful feature of NumPy is n-dimentional array. This library also contains basic linear algebra functions, Fourier transforms, advanced random number capabililties and tools for integration with other low level languagues like C and C++. Numpy colab tutorial is [here](https://github.com/StranGer-48/Data-Analysis/blob/main/NumPyTutorial_1.ipynb)
+   
+>**SciPy - Fundamental Scientific Computing**
+  Scipy stands for Scientific Python. It is built on NumPy. Scipy is one of the most useful library for variety of high level science and engineering modules like discrete Fourier transform, Linear Algebra, Optimization and Sparse martices.
+   
    
  > **Pandas - Data Manipulation and Analysis**
    Pandas for structured data operations and manipulations. It is extensively used for data munging and preparation. Pandas were added relatively recently to Python and have been instrumental in boosting Python's usage in data scientist community.
