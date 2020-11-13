@@ -31,16 +31,20 @@ There are different steps in data analysis:
  Mathematical formulas or models, may be applied to the data in order to identify  relationships among the variables; for example, using correlation or causation. In general terms, models may be developed to evaluate a specific variable based on other variables contained within the dataset, with some residual error depending on the implemented model's accuracy.
 
 In this course I am gonna discuss about how these steps are implemented using Python Programming language. There are different Python libraries for data analysis:
+
  > **Numpy and Scipy - Fumdamental Scientific Computing**
    NumPys stands for Numerical Python. The most powerful feature of NumPy is n-dimentional array. This library also contains basic linear algebra functions, Fourier transforms, advanced random number capabililties and tools for integration with other low level languagues like C and C++.
    SciPy stands for Scientific Python. It is built on NumPy. Scipy is one of the most useful library for variety of high level science and engineering modules like discrete Fourier transform, Linear Algebra, Optimization and Sparse martices.
+   Numpy colab tutorial is [here](https://github.com/StranGer-48/Data-Analysis/blob/main/NumPyTutorial_1.ipynb)
    
  > **Pandas - Data Manipulation and Analysis**
    Pandas for structured data operations and manipulations. It is extensively used for data munging and preparation. Pandas were added relatively recently to Python and have been instrumental in boosting Python's usage in data scientist community.
+   Pandas colab tutorial is [here](https://github.com/StranGer-48/Data-Analysis/blob/main/PandasTurorial.ipynb)
   
  > **Matplotlib - Plotting and Visualization**
    Matplotlib for plotting vast variety of graphs, starting from histograms to line plots to heat plots. You can use Pylab feature in ipython norebook to use these plotting feature inline. If you ignore the inline option, then pylab converts ipython environment to an environment, very similar to Matlab.
-  
+   Matplotlib colab tutorial is [here](https://github.com/StranGer-48/Data-Analysis/blob/main/MatplotlibTutorial.ipynb)
+   
  > **Scikit-learn - Machine Learning and Data Mining**
    Scikit Learn for machine learning. Built on Numpy, Scipy AND matplotlib, this library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensional reduction.
  
